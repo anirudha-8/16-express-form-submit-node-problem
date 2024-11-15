@@ -27,7 +27,7 @@ Create an Express server that:
 Your project folder should look like this:  
 
 ```bash  
-problem-16-form-data/  
+16-express-form-submit-node-problem/  
 ├── server.js             # Express server script  
 ├── public/               # Directory for static files  
 │   └── index.html        # HTML form file  
